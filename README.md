@@ -33,7 +33,9 @@ Mickey-1928 can generate images of Mickey, Minnie and, to a much lesser extent, 
 Since 2024, the first three cartoons of Mickey are in the public domain. The final dataset includes:
 - 40 stills from *Gallopin' Gaucho* (in color)
 - 22 stills from *Plane Crazy*
-- 34 stills from *Steamboat Willie*.
+- 35 stills from *Steamboat Willie* (1 in colour).
+- various posters, cels and sketches from the time
+
 
 The stills are not currently available in high quality and you should not expect consistently good results from Mickey-1928. The color images from *Gallopin' Gaucho* are in 360x360 pixels. Hopefully with the cartoons now being part of the public domain, higher definition versions should be available.
 
