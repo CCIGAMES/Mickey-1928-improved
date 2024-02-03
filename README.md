@@ -22,11 +22,11 @@ datasets:
 - chaphi/mickey1928extra
 ---
 
-**Mickey-1928** is fine-tuned version of Stable-Diffusion-xl trained on 96 stills in the public domain from 1928.
+**Mickey-1928-improved** is a modified version of Mickey-1928, a fine-tuned version of Stable-Diffusion-xl trained on various stills in the public domain from 1928.
 
 <Gallery />
 
-Mickey-1928 can generate images of Mickey, Minnie and, to a much lesser extent, Pete (with the prompt PeteLegPete).
+Mickey-1928 can generate images of Mickey, Minnie and, to a much lesser extent, Pete.
 
 ## Dataset
 
